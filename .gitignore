@@ -1,0 +1,14 @@
+# Datos de clientes: nunca se suben a este repositorio público
+clientes/
+contratos/
+trabajo/
+*.key
+*.pem
+.env
+.env.*
+
+# Archivos generados
+*.mp4
+*.mov
+node_modules/
+.DS_Store
